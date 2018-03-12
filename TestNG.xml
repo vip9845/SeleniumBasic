@@ -1,0 +1,12 @@
+<suite name="suite" parallel="none">
+<test name="TestE">
+<classes>
+<class name="com.automation.working.day8.DemoE"/>
+</classes>
+</test>
+<!-- <test name="TestB1">
+<classes>
+<class name="com.automation.working.day8.DemoB"/>
+</classes>
+</test> -->
+</suite>
